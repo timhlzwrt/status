@@ -41,17 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.tjh.li.ico",
     "slug": "login-pocket-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "52.38%",
+    "uptimeDay": "52.38%",
+    "uptimeWeek": "52.38%",
+    "uptimeMonth": "52.38%",
+    "uptimeYear": "52.38%",
     "time": 61,
     "timeDay": 61,
     "timeWeek": 61,
     "timeMonth": 61,
     "timeYear": 61,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 0
+    }
   },
   {
     "name": "tjh.li",
